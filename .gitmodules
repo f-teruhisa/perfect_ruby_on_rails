@@ -4,3 +4,6 @@
 [submodule "chapter_3/rails_test_sample"]
 	path = chapter_3/rails_test_sample
 	url = git@github.com:f-teruhisa/perfect_ruby_on_rails.git
+[submodule "chapter3/chapter3"]
+	path = chapter3/chapter3
+	url = git@github.com:f-teruhisa/perfect_ruby_on_rails.git
