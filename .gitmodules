@@ -13,3 +13,6 @@
 [submodule "chapter4/chapter4/built_in_sample"]
 	path = chapter4/chapter4/built_in_sample
 	url = git@github.com:f-teruhisa/perfect_ruby_on_rails.git
+[submodule "chapter5/portraits_uploader"]
+	path = chapter5/portraits_uploader
+	url = git@github.com:f-teruhisa/perfect_ruby_on_rails.git
