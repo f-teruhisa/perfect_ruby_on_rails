@@ -7,3 +7,6 @@
 [submodule "chapter3/chapter3"]
 	path = chapter3/chapter3
 	url = git@github.com:f-teruhisa/perfect_ruby_on_rails.git
+[submodule "chapter4/chapter4/sprockets-sample"]
+	path = chapter4/chapter4/sprockets-sample
+	url = git@github.com:f-teruhisa/perfect_ruby_on_rails.git
