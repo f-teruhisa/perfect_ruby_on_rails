@@ -10,3 +10,6 @@
 [submodule "chapter4/chapter4/sprockets-sample"]
 	path = chapter4/chapter4/sprockets-sample
 	url = git@github.com:f-teruhisa/perfect_ruby_on_rails.git
+[submodule "chapter4/chapter4/built_in_sample"]
+	path = chapter4/chapter4/built_in_sample
+	url = git@github.com:f-teruhisa/perfect_ruby_on_rails.git
