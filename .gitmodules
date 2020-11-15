@@ -22,3 +22,6 @@
 [submodule "chapter5/action_text_sample"]
 	path = chapter5/action_text_sample
 	url = git@github.com:f-teruhisa/perfect_ruby_on_rails.git
+[submodule "chapter5/actioncable-sample"]
+	path = chapter5/actioncable-sample
+	url = git@github.com:f-teruhisa/perfect_ruby_on_rails.git
