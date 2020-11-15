@@ -25,3 +25,6 @@
 [submodule "chapter5/actioncable-sample"]
 	path = chapter5/actioncable-sample
 	url = git@github.com:f-teruhisa/perfect_ruby_on_rails.git
+[submodule "chapter6/awesome_events"]
+	path = chapter6/awesome_events
+	url = git@github.com:f-teruhisa/perfect_ruby_on_rails.git
